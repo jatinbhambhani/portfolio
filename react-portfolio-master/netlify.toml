@@ -1,0 +1,4 @@
+[build]
+base = "portfolio/react-portfolio-master/"
+publish = "portfolio/react-portfolio-master/build/"
+command = "npm run build"

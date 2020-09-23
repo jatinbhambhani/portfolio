@@ -94,7 +94,7 @@ class Resume extends Component {
             <Experience
               startYear={2016}
               endYear={2017}
-              jobName="TECHNICAL CONSULTANT at GRIDINFOCOM"
+              jobName="TECHNICAL CONSULTANT at GRIDINFOCOM PVT LTD"
               jobDescription=" - Responsibilities -
               * Developing attended and unattended bots. 
               * Requirement analysis, gathering and documentation for the project.
